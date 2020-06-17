@@ -30,7 +30,7 @@ setInterval(get_Real_IP_Address, 60 * 1000);
     secure: true, // true for 465, false for other ports
     auth: {
       user: "xxxxx@xxxxx.com", // generated ethereal user
-      pass: "xxxxx", // generated ethereal password ticavtxmldslcbee
+      pass: "xxxxx", // generated ethereal password
     },
   });
 ```
