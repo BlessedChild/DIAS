@@ -1,4 +1,4 @@
-# DDNS/DIAS - Dynamic Domain Name Server/Dynamic IP Address Server
+# DDNS/DIAS - Dynamic Domain Name Server/Dynamic IP Address Server V1.0.0
 
 ## Send notification by email when IP address changes.
 
